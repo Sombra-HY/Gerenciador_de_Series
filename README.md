@@ -5,10 +5,10 @@
 <h2>Funcionalidades</h2>
 
 <ul>
-  <li>Cadastro de séries: Permite adicionar informações de uma nova série, como título, gênero e ano de lançamento.</li>
-  <li>Consulta de séries: Permite visualizar todas as séries cadastradas, exibindo seus detalhes, como título, gênero e ano de lançamento.</li>
-  <li>Detalhes de uma série: Permite exibir informações detalhadas de uma série específica, incluindo seu título, gênero, ano de lançamento e outras informações relevantes.</li>
-  <li>Interação com o usuário por meio de um site: A interface de usuário é desenvolvida utilizando HTML, CSS e JavaScript, proporcionando uma experiência amigável para o usuário.</li>
+  <li><span style="color:red;">[X]</span> Cadastro de séries: Permite adicionar informações de uma nova série, como título, gênero e ano de lançamento.</li>
+  <li><span style="color:red;">[X]</span> Consulta de séries: Permite visualizar todas as séries cadastradas, exibindo seus detalhes, como título, gênero e ano de lançamento.</li>
+  <li><span style="color:red;">[X]</span> Detalhes de uma série: Permite exibir informações detalhadas de uma série específica, incluindo seu título, gênero, ano de lançamento e outras informações relevantes.</li>
+  <li><span style="color:red;">[X]</span> Interação com o usuário por meio de um site: A interface de usuário é desenvolvida utilizando HTML, CSS e JavaScript, proporcionando uma experiência amigável para o usuário.</li>
 </ul>
 
 <h2>Tecnologias utilizadas</h2>
